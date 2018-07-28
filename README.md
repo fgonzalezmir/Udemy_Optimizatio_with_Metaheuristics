@@ -8,6 +8,7 @@ Curso de Udemy de optimización con métodos Metaheuristicos en Python
 5. Constraint Handling
 
 Fuera del curso:
+
 6. Particle Swarm
 
 https://www.udemy.com/optimization-with-metaheuristics/learn/v4/content
